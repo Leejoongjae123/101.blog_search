@@ -44,6 +44,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 
 
+
 def getUrl(keyword):
     dataList = []
     count = 1
